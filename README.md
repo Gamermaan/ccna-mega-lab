@@ -6,6 +6,8 @@ The lab covers routing, switching, redundancy, DHCP, network management, and Lay
 
 > **Note:** This README describes the configuration work represented in my notes. Some items may still need verification against the lab's Check Results assessment.
 
+<img width="1018" height="639" alt="image" src="https://github.com/user-attachments/assets/125fe664-6592-422c-bae4-17037f7cf4f1" />
+
 ## What I worked on
 
 ### 1. Basic device setup
